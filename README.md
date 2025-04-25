@@ -1,6 +1,6 @@
 ## Heya, I'm John! 👋
 
-I'm a full-stack software engineer seeking to challenge my knowledge with complex problems. 
+After building a solid foundation in software engineering fundamentals, I'm ready to tackle on more challenging projects that can help to develop my expertise in web development. 
 
 ## Unilogs
 
