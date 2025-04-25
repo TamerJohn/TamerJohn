@@ -6,7 +6,7 @@ I'm a full-stack software engineer seeking to challenge my knowledge with comple
 
 Most recently, I've developed [Unilogs](https://unilogs.github.io/), an auto-scaling end-to-end, log observability platform for distributed applications that deploys to AWS with a simple command. 
 
-*Tech used: Typescrript, Docker, Vector, Loki, Grafana, AWS(CloudFormation EKS, EC2, S3)*
+*Tech used: Typescrript, Docker, Vector, Loki, Grafana, AWS(CloudFormation, EKS, EC2, S3)*
 
 📖 [Read the Unilogs case study here.](https://unilogs.github.io/#one)
 
