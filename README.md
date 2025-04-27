@@ -1,6 +1,6 @@
 ## Heya, I'm John! 👋
 
-After building a solid foundation in software engineering fundamentals, I'm ready to tackle on more challenging projects that can help to develop my expertise in web development. 
+I'm a full stack software engineer with expertise in JavaScript, Ruby, and TypeScript. I leverage my background as a computational chemist to design efficient, maintainable solutions that solve complex technical challenges.
 
 ## Unilogs
 
