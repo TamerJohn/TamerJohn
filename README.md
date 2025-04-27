@@ -1,6 +1,6 @@
 ## Heya, I'm John! 👋
 
-I'm a full stack software engineer with expertise in JavaScript, Ruby, and TypeScript. I leverage my background as a computational chemist to design efficient, maintainable solutions that solve complex technical challenges.
+I'm a full stack software engineer with expertise in JavaScript, Ruby, and TypeScript. I combine my computational chemistry knowledge with my software engineering skills to design efficient, maintainable solutions that solve complex technical challenges.
 
 ## Unilogs
 
