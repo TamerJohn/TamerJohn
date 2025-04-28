@@ -31,7 +31,7 @@ Most recently, I've developed [Unilogs](https://unilogs.github.io/), an auto-sca
 
 ## 📫 Where to find me?
 
-* LinkedIn
+* [LinkedIn](https://www.linkedin.com/in/john-tamer-00a173223/)
 * My Resume
 <!--
 **TamerJohn/TamerJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
