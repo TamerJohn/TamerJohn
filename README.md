@@ -4,15 +4,16 @@ I'm a full stack software engineer with expertise in JavaScript, Ruby, and TypeS
 
 ## Unilogs
 
-Most recently, I've developed [Unilogs](https://unilogs.github.io/), an auto-scaling end-to-end, log observability platform for distributed applications that deploys to AWS with a simple command. 
+Most recently, I've developed [Unilogs](https://unilogs.github.io/), an auto-scaling end-to-end, log observability platform for distributed applications that deploys to AWS with a simple command.
 
-*Tech used: Typescrript, Docker, Vector, Loki, Grafana, AWS(CloudFormation, EKS, EC2, S3)*
+_Tech used: Typescrript, Docker, Vector, Loki, Grafana, AWS(CloudFormation, EKS, EC2, S3)_
 
 📖 [Read the Unilogs case study here.](https://unilogs.github.io/#one)
 
 ## 🛠️ Technologies and tools I have experience with:
 
 <!-- Languages & Frameworks -->
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -31,8 +32,8 @@ Most recently, I've developed [Unilogs](https://unilogs.github.io/), an auto-sca
 
 ## 📫 Where to find me?
 
-* [LinkedIn](https://www.linkedin.com/in/john-tamer-00a173223/)
-* My Resume
+- [LinkedIn](https://www.linkedin.com/in/john-tamer-00a173223/)
+- [My Resume](https://tamerjohn.github.io/resume/)
 <!--
 **TamerJohn/TamerJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,4 +47,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
