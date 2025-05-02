@@ -6,7 +6,7 @@ I'm a full stack software engineer with expertise in JavaScript, Ruby, and TypeS
 
 Most recently, I've developed [Unilogs](https://unilogs.github.io/), an auto-scaling end-to-end, log observability platform for distributed applications that deploys to AWS with a simple command.
 
-_Tech used: Typescrript, Docker, Vector, Loki, Grafana, AWS(CloudFormation, EKS, EC2, S3)_
+_Tech used: JavaScript, Node, TypeScript, Docker, Vector, Loki, Grafana, AWS(CloudFormation, EKS, EC2, S3)_
 
 📖 [Read the Unilogs case study here.](https://unilogs.github.io/#one)
 
